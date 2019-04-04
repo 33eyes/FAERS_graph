@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+scratch*
+__pycache__/
+nohup*
+.n4jpass
+pickles/
+.DS_Store
